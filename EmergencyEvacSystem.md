@@ -178,16 +178,29 @@ A*         Yes      21      58      0.00
 ## Animation:
  The shortest path is drawn cell-by-cell in blue using smooth animation.
  If no valid route exists, a message “No path found by any algorithm” appears.
-Screenshots:
-Empty grid window.
+
  
+Screenshots:
+	
+Empty grid window.
+	<img width="237" height="226" alt="image" src="https://github.com/user-attachments/assets/e9663c71-961f-4225-80fc-fc89b07f8282" />
+	
+	
 Start and Goal nodes placed.
+	<img width="395" height="205" alt="image" src="https://github.com/user-attachments/assets/479544c2-d502-4380-8587-74f01388e366" />
+
 
 Obstacles drawn.
+	<img width="294" height="222" alt="image" src="https://github.com/user-attachments/assets/aefbdf3a-ee39-47de-8c04-e4c073fe089e" />
+
 
 Traversal in progress
+	<img width="231" height="214" alt="image" src="https://github.com/user-attachments/assets/08b413a5-6b23-467c-9151-dd371fff34ad" />
+
 
 Results table shown in text box
+	<img width="294" height="246" alt="image" src="https://github.com/user-attachments/assets/20a13d4b-8e0c-41b6-bbdf-f683229de09f" />
+
 
 
 ## Conclusion and future scope:
@@ -201,6 +214,7 @@ Add maze generation and random testing features.
 Export result data (time, nodes) as a CSV report.
 Convert the visualizer into a web-based React or JavaScript application.
 Integrate with real-world maps for route-planning simulation.
+
 
 
 
